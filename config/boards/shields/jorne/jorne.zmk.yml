@@ -1,0 +1,13 @@
+file_format: "1"
+id: jorne
+name: jorne
+type: shield
+url: https://github.com/foostan/crkbd/
+requires:
+  - pro_micro
+exposes:
+features:
+  - keys
+siblings:
+  - jorne_left
+  - jorne_right
